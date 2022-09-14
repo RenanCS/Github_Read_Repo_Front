@@ -1,5 +1,5 @@
 <h1 align="center">
-  Apresentão de repositórios do github
+  Apresentação de repositórios do github
 </h1>
 
 <h4 align="center">
